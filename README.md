@@ -2,15 +2,45 @@
 
 This repo contains my #rstats, data science & stats illustrations shared on my twitter account (@allison_horst).
 
-All of this artwork is 100% available (and encouraged!) for open use by CC-BY license. That means: Hooray! I'm so happy that you want to share this artwork - especially if it helps when teaching R/rstats/stats. You can just cite with "Artwork by @allison_horst". That's it! Click on the images below for the hi-res versions. 
+All of this artwork is 100% available (and encouraged!) for open use by CC-BY license. That means: Hooray! I'm so happy that you want to share this artwork - especially if it helps when teaching R/rstats/stats. For most of the artwork you can just cite with "Artwork by @allison_horst". **Please note some series where a different citation is requested (e.g. for collaborative projects).** 
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-### Is the artwork useful for your teaching materials? Please consider donating to Data 4 Black Lives!
+## Is the artwork useful for your teaching materials? I would be so grateful if you would...
 
-This artwork is available for free to anyone who wants to use it for your teaching, learning, presentations, and more. If you are a teacher and feel that your course benefits from the artwork, *and* you can do so without stress or burden, please consider a donation to **<a href="https://d4bl.org/">Data 4 Black Lives</a>**. 
+### Donate!  
+
+This artwork is available for free to anyone who wants to use it for your teaching, learning, presentations, and more. If you are a teacher and feel that your course benefits from the artwork, *and* you can do so without stress or burden, please consider a donation to **<a href="https://www.instagram.com/indigenouswomenhike/?hl=en">Indigenous Women Hike</a>**. There are a number of ways to donate to Indigenous Women Hike, see options (including PayPal & Venmo) here: https://linktr.ee/iwh.
+
+### Fill out this form so I know where & how it's getting used! 
+
+I am an Assistant Teaching Professor at the Bren School of Environmental Science and Management and it would be wonderful to include information about where and how this artwork is being used for my reviews. I would be so grateful if you could complete this very short (5 questions) Google Form, this will really help me out!
+
+[Questionnaire: Allison Horst R/stats artwork use](https://forms.gle/4dfJpsMsNJwexKA8A)
 
 # Recent additions
+
+### Intro to ACF (autocorrelation function) in time series data: 
+
+Thank you to Rob Hyndman for feedback & suggestions on this series! 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_1.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_2.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_3.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_4.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_5.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_6.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_7.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_8.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_9.jpg" width="700">
 
 ### Workflows that shred...
 
